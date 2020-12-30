@@ -1,0 +1,13 @@
+Create a Git repository
+
+Go the folder which should be mapped to your Git repository
+
+Right click and select Git clone option from the list
+
+A new panel called 'Clone Existing Repository' will be opened
+
+In the URL field,paste the Git Repository url copied from Git hub
+
+In the Directory field,browse to the correct folder which should be mapped.
+
+Click Ok
